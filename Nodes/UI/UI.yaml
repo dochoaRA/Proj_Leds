@@ -457,6 +457,6 @@ Children:
         Type: BaseDataVariableType
         DataType: Color
         ModellingRule: Optional
-        Value: "#0cdb2c"
+        Value: "#ee3838"
 - File: Screens/Screens.yaml
 - File: Keyboards/Keyboards.yaml
