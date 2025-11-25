@@ -465,7 +465,7 @@ Children:
         Type: BaseDataVariableType
         DataType: LocalizedText
         ModellingRule: Optional
-        Value: {"LocaleId":"en-US","Text":"test21112025"}
+        Value: {"LocaleId":"en-US","Text":"test25112025"}
       - Name: TopMargin
         Type: BaseVariableType
         DataType: Size
@@ -476,5 +476,10 @@ Children:
         DataType: Size
         ModellingRule: Optional
         Value: 30.0
+      - Name: TextColor
+        Type: BaseDataVariableType
+        DataType: Color
+        ModellingRule: Optional
+        Value: "#1c48ed"
 - File: Screens/Screens.yaml
 - File: Keyboards/Keyboards.yaml
